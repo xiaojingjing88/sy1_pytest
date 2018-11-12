@@ -1,3 +1,4 @@
+import pytest
 class TestContact:
     def test_pytest1(self):
         assert 1
